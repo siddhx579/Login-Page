@@ -19,6 +19,7 @@ body{
     background-position: center;
 }
 
+/* Wrapper div to center the form and add styles to it */
 .wrapper{
     width: 420px;
     background: transparent;
@@ -29,11 +30,14 @@ body{
     border-radius: 10px;
     padding: 30px 40px;
 }
+
+/* Set font size for the title of the form */
 .wrapper h1{
     font-size: 36px;
     text-align: center;
 }
 
+/* Define styles for the input box of the form */
 .wrapper .input-box {
     width: 100%;
     height: 50px;
